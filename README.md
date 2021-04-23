@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="160px">
+  <img alt="Headset" src=".github/icon.svg" width="160px">
 </p>
 
 ## 🧪 Technologies
