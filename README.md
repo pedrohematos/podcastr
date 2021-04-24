@@ -18,14 +18,27 @@ Clone the project and access the folder
 $ git clone https://github.com/pedrohematos/podcastr.git && cd podcastr
 ```
 
-Follow the steps below
+To run the project follow the steps below
 
 ```bash
 # Install the dependencies
 $ yarn
 
-# Start the project
-$ yarn dev
+# Build the application
+$ yarn build
+
+# Run the built project 
+$ yarn server & yarn start
+```
+
+Or run the project in dev mode
+
+```bash
+# Install the dependencies
+$ yarn
+
+# Run in dev mode
+$ yarn server & yarn dev
 ```
 
 ## 💻 Project
