@@ -32,7 +32,7 @@ While the app server is running, run in another terminal:
 
 ```bash
 # Start the app in user-mode
-$ yarn start
+$ yarn build && yarn start
 
 # Or start the app in dev-mode
 $ yarn dev
