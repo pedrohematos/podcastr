@@ -31,14 +31,14 @@ $ yarn server
 While the app server is running, run in another terminal:
 
 ```bash
-# Start the app in user mode
+# Start the app in user-mode
 $ yarn start
 
-# Or start the app in dev mode
-$ yarn start
+# Or start the app in dev-mode
+$ yarn dev
 ```
 
-After that open the localhost:3000. The app will be available there:
+Open the localhost:3000. The app will be available there:
 
 - [localhost:3000](http://localhost:3000/)
 
