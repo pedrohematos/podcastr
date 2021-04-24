@@ -24,24 +24,21 @@ To run the project, follow the steps below:
 # Install the dependencies
 $ yarn
 
-# Build the application
-$ yarn build
-
-# Run the built application
-$ yarn server & yarn start
+# Start the app server
+$ yarn server
 ```
 
-Or run the project in dev mode:
+While the app server is running, run in another terminal:
 
 ```bash
-# Install the dependencies
-$ yarn
+# Start the app in user mode
+$ yarn start
 
-# Run in dev mode
-$ yarn server & yarn dev
+# Or start the app in dev mode
+$ yarn start
 ```
 
-After that the app will be available at:
+After that open the localhost:3000. The app will be available there:
 
 - [localhost:3000](http://localhost:3000/)
 
