@@ -28,7 +28,7 @@ $ yarn
 $ yarn server
 ```
 
-While the app server is running, run in another terminal:
+While the app server is running, in another terminal go to the podcastr folder and run:
 
 ```bash
 # Start the app in user-mode
