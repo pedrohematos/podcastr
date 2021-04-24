@@ -30,7 +30,7 @@ $ yarn dev
 
 ## 💻 Project
 
-[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜
+[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts!
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
@@ -48,4 +48,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Made with 💜 by Pedro Matos</p>
+<p align="center">Made by Pedro Matos</p>
