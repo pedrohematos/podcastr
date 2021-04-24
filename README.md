@@ -41,6 +41,11 @@ $ yarn
 $ yarn server & yarn dev
 ```
 
+After that the app will be available at:
+
+- [localhost:3000](http://localhost:3000/)
+
+
 ## 💻 Project
 
 [Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts!
